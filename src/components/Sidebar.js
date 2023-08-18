@@ -30,13 +30,13 @@ export default function Sidebar() {
                 <Link href='/projects' className='text-right p-2'><p className='mr-2'>Projects</p></Link>
               </li>
 
-              <li>
+              {/* <li>
                 <Link href='#' className='text-right p-2'><p className='mr-2'>Blog</p></Link>
               </li>
 
               <li>
                 <Link href='#' className='text-right p-2'><p className='mr-2'>Contact</p></Link>
-              </li>
+              </li> */}
             </ul>
           </nav>
         </div>
